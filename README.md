@@ -1,5 +1,4 @@
-### Hola :)
+### Autodidacta :blush:
 
-Simple y sencillo.
-
-- Actualmente concretando conocimientos en el desarrollo web (html, css, javascript).
+Me gusta estar aprendiendo constantemente. :mortar_board:. Ver las cosas desde otra perspectiva, investigar.
+Actualmente estoy trabajando con herramientas como Power Bi de microsoft, Nodejs y tengo algunos proyectos en mente. :rocket:...
